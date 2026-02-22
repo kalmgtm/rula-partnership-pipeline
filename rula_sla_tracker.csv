@@ -1,0 +1,11 @@
+Status,Practice Name,Practice Type,Location,Tier,Score,Owner,Days Since Contact,SLA (days),Days Overdue,Recommended Action
+URGENT - SLA BREACH,Metro Health Associates,Internal Medicine,"Chicago, IL",Tier 1,74.6,Marcus Webb,18,2,16,Personalized email - Lead with: Urban multi-specialty group
+URGENT - SLA BREACH,Westside Internal Medicine,Internal Medicine,"Los Angeles, CA",Tier 1,73.5,Tyler Brooks,7,2,5,Personalized email - Lead with: Diverse patient population
+URGENT - SLA BREACH,Sunrise Family Medicine,Primary Care,"Phoenix, AZ",Tier 1,80.4,Jamie Reyes,3,2,1,Personalized email - Lead with: Large suburban group
+OVERDUE,Lakewood Medical Group,Primary Care / Urgent Care,"Denver, CO",Tier 2,56.4,Marcus Webb,22,7,15,Templated intro email - Use standard Rula referral partner template
+OVERDUE,Northside Community Clinic,FQHC,"Atlanta, GA",Tier 2,65.4,Tyler Brooks,11,7,4,Templated intro email - Use standard Rula referral partner template
+OVERDUE,Riverside Health Center,Internal Medicine,"Houston, TX",Tier 2,58.5,Dana Okon,9,7,2,Templated intro email - Use standard Rula referral partner template
+AT RISK,Valley Primary Care,Primary Care,"Fresno, CA",Tier 2,58.2,Priya Shah,6,7,,Templated intro email - Use standard Rula referral partner template
+ON TRACK,Mountain View OB/GYN,OB/GYN,"Salt Lake City, UT",Tier 2,60.3,Jamie Reyes,4,7,,Templated intro email - Use standard Rula referral partner template
+ON TRACK,Clearwater Pediatrics,Pediatrics,"Tampa, FL",Tier 2,69.3,Dana Okon,2,7,,Templated intro email - Use standard Rula referral partner template
+MONITOR,South Bay Family Practice,Primary Care,"San Jose, CA",Tier 3,19.2,Priya Shah,52,N/A,,Nurture list - Add to drip sequence; revisit in 90 days
